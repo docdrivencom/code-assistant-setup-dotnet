@@ -4,7 +4,7 @@
 
 1. **Download the Goods**
 
-    Grab this repository content example in a zip file right [here]().
+    Grab this repository content example in a zip file right [here](https://github.com/docdrivencom/code-assistant-setup-dotnet/archive/refs/heads/main.zip).
 
 
 2. **Unzip and Copy**
