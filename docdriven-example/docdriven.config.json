@@ -1,0 +1,18 @@
+{
+    "templates": [
+        {
+            "name": ".NET Controller",
+            "inputFile": "docdriven/input/basic-controller.cs",
+            "outputDirectory": "docdriven/output",
+            "type": "Endpoints",
+            "split": false
+        },
+        {
+            "name": ".NET Model",
+            "inputFile": "docdriven/input/basic-model.cs",
+            "outputDirectory": "docdriven/output",
+            "type": "Schemas",
+            "split": true
+        }
+    ]
+}
