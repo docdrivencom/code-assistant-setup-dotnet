@@ -16,7 +16,7 @@
 
     Time to make it official! Commit and push the newly added directory and config file to the repository. 
     
-    **Pro tip**: Start with a `develop`, `test`, or `feature` branch — because nobody likes to break main on the first try!
+    **Pro tip**: Start with a `develop`, `test`, or `feature` branch — because nobody likes to break `main` on the first try!
     
     ```
     git add docdriven
