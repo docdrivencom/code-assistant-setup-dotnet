@@ -14,7 +14,7 @@ This is a basic configuration for ASP.NET Core that will help you setup DocDrive
 
 **2. Unzip and Copy**
 
->Unzip the file and copy the `docdriven` directory and `docdriven.config.json` into the root of your ***ASP.NET Core Web*** project where you want the *Code Assistant* to operate. Ensure your project is inside a GitHub repository.
+>Unzip the file and copy the `docdriven` directory and `docdriven.config.json` into the root of your *ASP.NET Core Web* project where you want the *Code Assistant* to operate. Ensure your project is inside a GitHub repository.
 
 **3. Customize to fit your project**
 
